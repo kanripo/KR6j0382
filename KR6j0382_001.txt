@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:18.045852
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:01
 #+TITLE: 日光菩薩月光菩薩陀羅尼
 #+PROPERTY: CBETA_ID T20n1160
 #+PROPERTY: ID KR6j0382

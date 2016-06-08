@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:17.774597
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:00
 #+TITLE: 日光菩薩月光菩薩陀羅尼
 #+PROPERTY: CBETA_ID T20n1160
 #+PROPERTY: ID KR6j0382
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1160
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0382_T_001-0660b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1160¶
-
- 日光菩薩月光菩薩陀羅尼(此呪出觀世音菩薩¶
+No. 1160¶
+日光菩薩月光菩薩陀羅尼(此呪出觀世音菩薩¶
 大悲心陀羅尼經)¶
 ¶
 
